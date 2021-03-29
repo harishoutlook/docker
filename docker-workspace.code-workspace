@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "first-demo-starting-setup"
+		},
+		{
+			"path": "nodejs-app-starting-setup"
+		},
+		{
+			"path": "python-app-starting-setup"
+		},
+		{
+			"path": "node-app"
+		},
+		{
+			"path": "python-app"
+		},
+		{
+			"path": "data-volumes-02-added-dockerfile"
+		},
+		{
+			"path": "networks-starting-setup"
+		},
+		{
+			"path": "compose-01-starting-setup"
+		},
+		{
+			"path": "laravel-php"
+		}
+	]
+}
